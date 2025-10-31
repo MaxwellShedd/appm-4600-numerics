@@ -176,6 +176,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
     - [Common Python pitfalls](Demos/Misc_CommonPythonPitfalls.ipynb) relevant to numerical analysys
 - Wed, Oct 29 
   - [Trigonometric polynomial approximation/interpolation and DFT/FFT](Notes/Ch8_TrigPolynomials_and_DFT_FFT.pdf) though we didn't get to the FFT
+    - see [Supplementary notes on DFT vs Fourier Transform](Notes/Ch8_TrigPolynomials_Supplement.pdf) if you're interested (will not be on exams)
   - In 2025, we're skipping:
     - ~~[8.4, Rational function approximation](Ch8_RationalFcn.pdf)~~
         - ~~[The first five years of the AAA algorithm](https://people.maths.ox.ac.uk/trefethen/nak_sete_tref_revised.pdf) by Y. Nakatsukasa, O. Sete, L. N. Trefethen~~
